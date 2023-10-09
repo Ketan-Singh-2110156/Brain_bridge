@@ -5,7 +5,7 @@
 * Its a  neural network based on LSTM( long short term memory) and consists of Input layer, dense layer, bidirectional LSTM layer, dropout layer and flatten layer.
 * The normalization of the data is done through the .fit Transform() method.
 * The 85% of data (nearly 10889 values)  is used for training and the remaining 15% of the data (nearly 1922 values) is used for testing  the model.
-* Total of 73.76% of accuracy is achieved from the model.
+* Total of 92% of accuracy is achieved from the model.
 
 ## Model archietecture
 
